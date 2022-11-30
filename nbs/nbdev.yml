@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://anhqle.github.io/nbdev_cards"
+  description: "Testing out nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/anhqle/nbdev_cards"
